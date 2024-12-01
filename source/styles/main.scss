@@ -1,0 +1,29 @@
+@use 'variables';
+
+body {
+  background-color: variables.$color-background;
+  color: variables.$color-text;
+  font-family: variables.$font-primary;
+  font-size: variables.$font-size-medium;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: variables.$color-primary;
+  font-family: variables.$font-secondary;
+}
+
+a {
+  color: variables.$color-primary;
+  text-decoration: none;
+
+  &:hover {
+    color: variables.$color-secondary;
+  }
+}
+
+p {
+  margin: 0 0 1em;
+  line-height: 1.5;
+}
