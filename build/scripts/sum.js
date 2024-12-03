@@ -1,0 +1,1 @@
+function ಠ_ಠ686(o,i){return o+i}function ಠ_ಠ687(o,i){return o-i}function ಠ_ಠ688(o,i){return o*i}function ಠ_ಠ689(o,i){if(0===i)throw new Error("Divisão por zero não é permitida");return o/i}module.ಠ_ಠ690={ಠ_ಠ686:ಠ_ಠ686,ಠ_ಠ687:ಠ_ಠ687,ಠ_ಠ688:ಠ_ಠ688,ಠ_ಠ689:ಠ_ಠ689};
